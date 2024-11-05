@@ -4,7 +4,7 @@
 ## Date:
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
-## ALGORITHM
+## ALGORITHM:
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
 3.	In the lex program, write the translation rules for the variables a and b.
@@ -14,6 +14,6 @@ To write a YACC program to recognize the grammar a^nb where n>=10.
 7.	Compile these with the C compiler as gcc lex.yy.c y.tab.c
 8.	Enter a string as input and it is identified as valid or invalid.
 ## PROGRAM:
-## OUTPUT
-## RESULT
+## OUTPUT:
+## RESULT:
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
