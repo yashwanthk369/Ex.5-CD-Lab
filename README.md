@@ -1,8 +1,9 @@
-# Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
-RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:
+# Ex.No:5
+# RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
+## Register Number:
+## Date:
 # Aim:
-To write a YACC program to recognize the grammar anb where n>=10.
+To write a YACC program to recognize the grammar a^nb where n>=10.
 # ALGORITHM
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
